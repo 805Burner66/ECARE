@@ -1,0 +1,11 @@
+# ECARE - EFTA Cross-Platform Analytical Reconciliation Engine
+# Core dependencies
+
+pandas>=2.1.0
+networkx>=3.2
+rapidfuzz>=3.5.0
+sqlite-utils>=3.35
+matplotlib>=3.8.0
+python-louvain>=0.16    # community detection (import as community)
+leidenalg>=0.10.0       # alternative community detection
+python-igraph>=0.11.0   # required by leidenalg
