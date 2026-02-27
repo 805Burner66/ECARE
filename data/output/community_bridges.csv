@@ -1,0 +1,1072 @@
+entity,entity_id,home_community,communities_connected,community_ids,documented_connections,bridge_score
+Jeffrey Epstein,PER-00728,7,17,0; 1; 2; 5; 7; 9; 12; 14; 15; 22; 23; 28; 37; 39; 58; 64; 78,799,13583
+Ghislaine Maxwell,PER-00587,1,12,0; 1; 2; 5; 7; 9; 12; 14; 23; 37; 39; 58,326,3912
+Trump,PER-07703,2,9,0; 1; 2; 5; 7; 9; 12; 14; 23,276,2484
+Hillary Clinton,PER-04744,2,10,0; 1; 2; 5; 7; 9; 12; 14; 23; 78,143,1430
+Alan Dershowitz,PER-07715,9,8,0; 1; 2; 7; 9; 12; 14; 58,159,1272
+United States Of America,LOC-01893,2,8,0; 1; 2; 7; 9; 14; 23; 69,119,952
+Barack Obama,PER-00152,2,8,0; 1; 2; 5; 7; 9; 12; 39,110,880
+Alison J. Nathan,PER-05397,1,7,0; 1; 2; 5; 7; 9; 39,96,672
+Ehud Barak,PER-00502,2,6,0; 1; 2; 7; 14; 39,106,636
+Virginia Giuffre,PER-01496,1,7,0; 1; 2; 7; 9; 14; 23,88,616
+Sarah Kellen,PER-01340,14,6,1; 2; 7; 9; 12; 14,93,558
+Bradley Edwards,PER-00201,9,6,1; 2; 7; 9; 14; 23,90,540
+Richard Kahn,PER-01280,7,8,0; 1; 2; 5; 7; 9; 14; 39,60,480
+Larry Summers,PER-00889,7,8,0; 1; 2; 7; 9; 12; 14; 58,48,384
+Steve Bannon,PER-01400,2,4,0; 2; 7; 9,95,380
+Lesley Groff,PER-00911,7,7,0; 1; 2; 7; 9; 12; 14,51,357
+Eva Dubin,PER-00531,7,6,1; 2; 7; 9; 12; 14,59,354
+Edward Snowden,PER-13575,2,5,0; 2; 7; 9; 58,68,340
+Jean-Luc Brunel,PER-00714,14,6,0; 1; 2; 7; 9; 14,55,330
+Emmy Tayler,PER-00521,1,5,1; 7; 9; 12; 14,65,325
+Michael Wolff,PER-01038,2,7,0; 1; 2; 7; 9; 39; 63,46,322
+Larry Visoski,PER-00890,14,6,1; 2; 5; 7; 9; 14,52,312
+"Andrew, Duke of York",PER-19401,7,6,1; 2; 7; 9; 14; 39,47,282
+Darren K. Indyke,PER-00364,7,6,1; 2; 7; 9; 14; 23,45,270
+Laura Menninger,PER-00892,1,6,1; 2; 5; 7; 9; 23,45,270
+David Rodriguez,PER-03301,12,6,1; 2; 7; 9; 12; 14,44,264
+Paul Cassell,PER-01189,9,6,1; 2; 7; 9; 14; 23,44,264
+Federal Bureau of Investigation Forensics Laboratory,ORG-01145,9,6,0; 1; 2; 7; 9; 14,43,258
+Richard Berman,PER-01271,7,5,1; 2; 7; 9; 28,50,250
+Jeffrey S. Pagliuca,PER-00734,1,5,1; 2; 5; 7; 9,49,245
+Reid Weingarten,PER-01262,2,5,1; 2; 7; 9; 15,46,230
+Israel,LOC-00887,2,4,0; 2; 7; 9,57,228
+Sigrid McCawley,PER-01373,1,5,1; 2; 7; 9; 23,42,210
+Alexander Acosta,PER-00073,9,5,0; 1; 2; 7; 9,42,210
+Bobbi C. Sternheim,PER-00192,1,6,1; 5; 7; 9; 37; 39,35,210
+Gwendolyn Beck,PER-00612,7,6,1; 2; 7; 9; 12; 14,35,210
+Maurene Ryan Coney,PER-06594,1,5,1; 2; 5; 7; 9,41,205
+Nadia Marcinkova,PER-01127,14,4,1; 7; 9; 14,50,200
+Court,LOC-00448,9,5,1; 2; 7; 9; 14,40,200
+Peggy Siegal,PER-01201,7,7,0; 2; 7; 14; 39; 49; 78,28,196
+Jared Kushner,PER-01558,2,4,0; 2; 7; 9,47,188
+Sophie Biddle,PER-01382,12,4,1; 7; 12; 14,45,180
+Jack Scarola,PER-00683,9,6,1; 2; 5; 7; 9; 14,29,174
+Joseph Recarey,PER-03532,9,6,1; 2; 7; 9; 12; 14,28,168
+Lara Elizabeth Pomerantz,PER-00882,1,4,1; 5; 7; 9,41,164
+Susan Elizabeth Brune,PER-01424,5,4,1; 5; 7; 9,41,164
+United States Congress,ORG-03389,2,4,2; 7; 8; 58,41,164
+Palm Beach Police Department,ORG-02506,9,5,1; 2; 7; 9; 14,32,160
+Larry Morrison,PER-00886,14,4,1; 7; 9; 14,40,160
+U.S. Department of Justice (DOJ),ORG-03290,2,4,2; 7; 9; 14,39,156
+Jack Goldberger,PER-01081,7,5,1; 2; 7; 9; 14,31,155
+New York Times,LOC-01308,2,5,0; 1; 2; 7; 9,30,150
+Alfredo Rodriguez,PER-00080,9,5,1; 2; 7; 9; 14,29,145
+Martin Weinberg,PER-00979,9,4,1; 2; 7; 9,36,144
+White House,LOC-01994,2,4,2; 7; 9; 12,34,136
+Christian R. Everdell,PER-00294,1,4,1; 2; 7; 9,34,136
+Jay Lefkowitz,PER-00706,9,4,1; 2; 7; 9,34,136
+Alexander Rossmiller,PER-00075,1,4,1; 2; 7; 9,33,132
+Paul Krassner,PER-01193,2,4,0; 2; 7; 9,33,132
+media organizations,ORG-03713,2,6,0; 1; 2; 7; 9; 14,21,126
+Leslie Wexner,PER-00914,7,5,1; 2; 7; 9; 12,25,125
+David Boies,PER-00373,1,5,1; 2; 5; 7; 9,25,125
+Benjamin Netanyahu,PER-11247,2,3,2; 7; 9,41,123
+Cindy Lopez (Buklarewicz),PER-00310,1,5,1; 2; 7; 12; 14,24,120
+Mark Epstein,PER-00964,7,6,1; 2; 7; 9; 12; 14,20,120
+Damian Williams,PER-00345,1,4,1; 5; 7; 9,30,120
+Iran,LOC-00905,2,2,2; 7,59,118
+Vladimir Putin,PER-01561,2,4,0; 2; 7; 9,29,116
+Andrew Rohrbach,PER-00108,1,4,1; 5; 7; 9,29,116
+George H.W. Bush,PER-00577,2,4,1; 2; 7; 9,29,116
+Landon Thomas Jr.,PER-05866,2,5,1; 2; 7; 9; 23,23,115
+Kingdom of Saudi Arabia,PER-16807,2,3,2; 7; 9,38,114
+Adriana Ross,PER-00048,14,5,1; 2; 7; 9; 14,22,110
+Nsa,ORG-02175,2,4,2; 7; 9; 15,27,108
+Andrea Mitrovich,PER-00099,14,4,1; 2; 7; 14,27,108
+Jane Does,PER-00699,9,5,1; 2; 7; 9; 14,21,105
+Sarah Ransome,PER-01341,1,5,1; 2; 7; 9; 14,21,105
+Elisa New,PER-01585,0,4,0; 2; 7; 9,26,104
+Gary Roxburgh,PER-00567,14,4,1; 7; 12; 14,26,104
+Leon Black,PER-00904,7,6,0; 1; 2; 7; 9; 12,17,102
+Jeffrey Epstein's residence,LOC-00933,9,6,0; 1; 2; 7; 9; 14,17,102
+Juan Alessi,PER-00801,9,5,1; 2; 7; 9; 14,20,100
+State Of New York,LOC-01654,2,5,1; 2; 5; 7; 9,20,100
+David K. Parse,PER-00382,5,3,1; 5; 9,33,99
+(b)(6); (b)(7)(C),PER-07021,7,4,2; 7; 9; 28,24,96
+Former Senator George Mitchell,PER-04079,12,4,1; 2; 7; 12,24,96
+Heather Mann,PER-00622,7,4,1; 7; 12; 23,24,96
+Joel Pashcow,PER-00768,1,5,1; 7; 9; 12; 14,19,95
+United States Attorney's Office,ORG-03332,2,4,1; 2; 7; 9,23,92
+Marie Villafana,PER-00960,9,4,1; 2; 7; 9,23,92
+Al Gore,PER-00052,0,5,0; 1; 2; 7; 9,18,90
+Yitzhak Rabin,PER-23118,2,3,2; 7; 9,30,90
+Ms.Villaflana,PER-01119,9,4,1; 5; 7; 9,22,88
+Mark Stewart Cohen,PER-00970,1,4,1; 2; 7; 9,22,88
+China,LOC-00399,2,2,2; 7,44,88
+David Oscar Markus,PER-00393,1,4,1; 2; 7; 9,22,88
+Lieutenant General Michael T. Flynn,PER-17138,2,3,2; 7; 9,29,87
+Shelley Lewis,PER-01363,7,5,1; 2; 7; 12; 14,17,85
+Mandy Ellison,PER-00948,12,4,1; 7; 9; 12,21,84
+Kathryn Ruemmler,PER-00836,2,3,2; 7; 9,27,81
+Lawrence Krauss,PER-00895,0,3,0; 2; 7,27,81
+Alberto Pinto,PER-00063,1,4,1; 7; 12; 14,20,80
+Trump administration,PER-21803,2,4,0; 2; 7; 9,20,80
+New York (E.D.N.Y.),LOC-01300,2,5,0; 1; 2; 7; 9,16,80
+House Judiciary Committee,ORG-01495,2,3,2; 7; 9,26,78
+Harvey Weinstein,PER-00619,39,6,0; 1; 2; 7; 9; 39,13,78
+Theresa Trzaskoma,PER-01441,5,3,1; 5; 9,26,78
+Kenneth Starr,PER-00859,9,3,2; 7; 9,26,78
+Noam Chomsky,PER-01159,7,4,0; 2; 7; 9,19,76
+Boris Nikolic,PER-00196,7,4,0; 2; 7; 14,19,76
+"William H. Pauley, III",PER-01521,5,4,0; 1; 2; 5,19,76
+David Copperfield,PER-06941,7,5,1; 2; 7; 9; 14,15,75
+Hugh J. Hurwitz,PER-00637,7,4,2; 7; 9; 23,18,72
+Brent Tindall (Chef),PER-00208,14,3,1; 7; 14,24,72
+"Jane, Annie, Kate, Carolyn, Virginia, and Melissa",PER-00700,1,3,1; 5; 7,24,72
+Andy Stewart,PER-00114,12,5,0; 7; 9; 12; 14,14,70
+underage girl,PER-28444,7,5,1; 2; 7; 9; 14,14,70
+Paula Epsilon,PER-01199,12,3,7; 12; 14,23,69
+Scott W. Rothstein,PER-08431,9,4,0; 2; 7; 9,17,68
+Farmer,PER-06335,1,3,1; 7; 9,22,66
+Audrey Strauss,PER-00145,1,3,1; 2; 7,22,66
+Kelly Bovino Umekubo,PER-00846,1,3,1; 7; 12,22,66
+Teala Davies,PER-01433,14,3,1; 7; 14,22,66
+EB-5 investors group,PER-13479,9,5,0; 2; 7; 8; 9,13,65
+Woody Allen,PER-01528,2,4,0; 2; 7; 9,16,64
+Tatiana Kovylina,PER-01430,14,4,1; 7; 9; 14,16,64
+Peter Thiel,PER-01218,7,4,1; 2; 7; 9,16,64
+Geoffrey Berman,PER-00573,1,4,1; 2; 7; 9,16,64
+Clare Hazell-Iveagh,PER-00311,1,4,1; 7; 9; 12,16,64
+Tim Ferriss,PER-21609,23,4,0; 2; 7; 23,16,64
+James Comey,PER-05073,2,3,2; 7; 9,21,63
+James Patterson,PER-15844,9,4,1; 2; 7; 9,15,60
+Unknown subject,PER-22467,7,5,0; 2; 7; 12; 23,12,60
+Steven Jude Hoffenberg,PER-21005,23,5,2; 7; 9; 14; 23,12,60
+unknown minor,PER-28521,7,5,1; 2; 7; 9; 14,12,60
+Joe Biden,PER-01546,2,5,0; 2; 7; 9; 12,12,60
+Unknown wealthy individual,PER-22472,7,5,2; 7; 9; 12; 23,12,60
+Celina Midelfart,PER-00272,7,4,1; 7; 9; 12,15,60
+Robert Lawrence Kuhn,PER-19860,2,4,2; 7; 9; 39,15,60
+Jeffrey J. Sloman,PER-05151,9,3,2; 7; 9,20,60
+Harvard University,ORG-01398,0,4,0; 2; 7; 9,15,60
+Mohammed bin Salman,PER-01060,2,3,2; 7; 9,20,60
+Bill Hammond,PER-00182,14,3,1; 7; 14,19,57
+Lynn Forester,PER-00941,12,3,1; 7; 12,19,57
+Stanley Pottinger,PER-01388,1,4,1; 2; 7; 9,14,56
+Dave Rodgers N908je,PER-03290,14,4,1; 7; 9; 14,14,56
+Virginia,LOC-01944,7,7,0; 1; 2; 7; 9; 12; 14,8,56
+Pagliucca,PER-01093,1,5,1; 2; 5; 7; 9,11,55
+Robert Mueller,PER-01300,2,3,2; 7; 9,18,54
+Gerald Lefcourt,PER-00582,9,3,2; 7; 9,18,54
+Russia,LOC-01585,2,2,2; 7,27,54
+Catherine Morgan Conrad,PER-00265,5,2,2; 5,27,54
+court deposition,PER-24209,9,4,1; 7; 9; 14,13,52
+Joi Ito,PER-00789,7,4,0; 2; 7; 9,13,52
+M. Roberts,PER-06247,9,4,1; 2; 7; 9,13,52
+Marc Allan Fernich,PER-00953,7,4,1; 2; 7; 9,13,52
+Didier Cazaudumec,PER-00447,7,4,1; 2; 7; 12,13,52
+Private Bank clients,PER-19418,2,4,1; 2; 9; 39,13,52
+"Rosenstein, Rob",PER-08107,2,3,2; 7; 9,17,51
+David Mullen,PER-00391,14,3,1; 7; 14,17,51
+Unknown recipient,PER-22463,7,5,0; 1; 2; 7; 9,10,50
+Kevin Spacey,PER-00863,2,5,0; 1; 2; 7; 14,10,50
+Egypt,LOC-00623,2,2,2; 39,25,50
+Mr Miles Alexander,PER-06304,9,5,0; 1; 2; 7; 9,10,50
+The Wall Street Journal,ORG-03207,2,4,0; 2; 7; 9,12,48
+Jim Cayne,PER-00757,12,3,1; 7; 12,16,48
+Barry Krischer,PER-00161,9,2,7; 9,24,48
+Kristy Rodgers,PER-00870,12,4,1; 2; 7; 12,12,48
+United States Circuit Court,ORG-03387,9,4,1; 2; 7; 9,12,48
+Passenger (1),PER-01180,12,3,1; 7; 12,16,48
+Melinda Luntz,PER-01004,12,4,1; 7; 12; 14,12,48
+Goldman Sachs,ORG-01339,2,4,0; 2; 8; 9,12,48
+Patricia Cayne,PER-01183,12,3,1; 7; 12,16,48
+Ehud Olmert,PER-00503,2,3,2; 7; 9,16,48
+Sheldon Barr,PER-08532,7,3,1; 7; 9,15,45
+law enforcement agencies,ORG-03710,9,5,1; 2; 7; 9; 15,9,45
+Anthony Barrett,PER-00125,7,3,1; 7; 12,15,45
+Alice Fisher,PER-00082,9,3,2; 7; 9,15,45
+Juror Number 50,PER-00822,1,3,1; 5; 7,15,45
+Natalya Malyshov,PER-01135,14,3,1; 7; 14,15,45
+Daily Beast,PER-12818,0,5,0; 2; 7; 9; 14,9,45
+Robert Glassman,PER-01294,1,3,1; 7; 9,15,45
+DOJ Redaction,PER-00451,9,4,1; 7; 9; 14,11,44
+Sharon Churcher,PER-08515,7,4,1; 2; 7; 9,11,44
+Michael Campion Miller,PER-06744,7,4,1; 2; 7; 9,11,44
+Netman,PER-00806,1,4,1; 5; 7; 9,11,44
+James L. Brochin,PER-00690,7,4,1; 2; 7; 9,11,44
+United States Attorney Southern District of Florida,ORG-03380,9,4,1; 2; 7; 9,11,44
+Lamine N'DiayeLee Plourde,PER-00877,7,2,1; 7,21,42
+Town of Palm Beach,LOC-01867,9,3,2; 7; 9,14,42
+Tiffany Gramza,PER-01447,1,3,1; 7; 12,14,42
+Cocoa Brown,PER-00320,12,3,1; 7; 12,14,42
+Michael Cohen,PER-17782,2,3,2; 7; 9,14,42
+Supreme Court,LOC-01769,9,3,0; 2; 9,14,42
+Dominique Strauss-Kahn,PER-03599,2,4,1; 2; 7; 9,10,40
+Doug Band,PER-00463,2,4,1; 2; 7; 14,10,40
+Elizabeth (Libit) Johnson,PER-00510,12,4,1; 2; 7; 12,10,40
+Michael Gerard Scavelli,PER-06757,7,4,1; 2; 7; 9,10,40
+Desiree Washington,PER-13182,2,2,2; 9,20,40
+Vicky Ward,PER-01491,7,4,1; 2; 7; 9,10,40
+Charlie Rose,PER-00280,2,4,1; 2; 7; 9,10,40
+"London, England",LOC-01076,2,4,0; 1; 2; 7,10,40
+Bill Gates,PER-00181,7,4,2; 7; 9; 12,10,40
+Naomi Campbell,PER-01130,14,4,1; 2; 7; 14,10,40
+Ira Magaziner,PER-00654,2,4,1; 2; 7; 14,10,40
+Osama bin Laden,PER-18817,2,2,2; 9,20,40
+Gary Kerney,PER-00564,7,4,1; 7; 12; 14,10,40
+Igor Zinoviev,PER-00644,14,3,1; 7; 14,13,39
+Japan,LOC-00929,2,3,2; 7; 23,13,39
+Knowledge Universe Education (KUE),PER-16836,8,3,2; 8; 9,13,39
+Mike Pence,PER-01548,2,3,2; 7; 9,13,39
+John Brockman,PER-00774,7,3,0; 2; 7,13,39
+Susan Hamblin,PER-01425,14,3,1; 7; 14,13,39
+Edward Jay Epstein,PER-00497,2,3,0; 2; 7,13,39
+David Schoen,PER-01594,2,3,2; 7; 9,13,39
+Peter Marino,PER-01213,12,3,1; 7; 12,13,39
+"Koluk-Koylu, Banu Banu Koluk-",PER-00869,1,3,1; 7; 14,13,39
+Alexia Wallert,PER-00078,1,3,1; 7; 14,13,39
+Chief Psychologist,PER-00288,7,3,1; 7; 28,13,39
+Associate Warden,PER-02153,28,2,7; 28,19,38
+al Qaeda,PER-23321,2,2,2; 9,19,38
+Sterntheim,PER-01117,5,2,1; 5,19,38
+Andrew Lourie,PER-00104,9,2,7; 9,19,38
+Clarisse Thorn,PER-12452,39,3,2; 7; 39,12,36
+Deepak Chopra,PER-00425,7,3,0; 2; 7,12,36
+World Economic Forum Annual Meeting,PER-22996,2,3,1; 2; 7,12,36
+Robert W. Sweet,PER-01304,23,4,1; 7; 9; 23,9,36
+Jeffrey Epstein's defense team,PER-16063,9,3,2; 7; 9,12,36
+Lilly Ann Sansbeez,PER-00920,9,3,2; 7; 9,12,36
+Jantelle Torie,PER-00702,2,4,1; 2; 7; 14,9,36
+Michael R. Milken,PER-17827,2,3,2; 8; 9,12,36
+Gary Blackwell (Pilot),PER-01661,14,3,1; 7; 14,12,36
+Michael Cembalest,PER-17779,2,3,0; 2; 7,12,36
+Henry Jarecki,PER-00626,7,3,0; 1; 7,12,36
+Paul Manafort,PER-19096,2,3,2; 7; 9,12,36
+Libya,PER-17126,2,3,0; 2; 7,12,36
+2008 U.S. Presidential Election,PER-09805,2,4,0; 2; 7; 9,9,36
+David Blaine,PER-00372,2,3,0; 2; 7,12,36
+Joe Novich,PER-00765,2,4,1; 2; 7; 14,9,36
+Scott Rueber,PER-01346,2,4,1; 2; 7; 14,9,36
+The Cincinnati Post,ORG-03156,2,2,2; 7,18,36
+Jonathan Mano,PER-00791,1,4,1; 7; 12; 14,9,36
+Linda Pinto,PER-00923,1,3,1; 7; 12,12,36
+Paul A. Engel Mayer,PER-01186,1,2,1; 7,18,36
+Cathy Alexander,PER-00267,9,5,0; 1; 2; 7; 9,7,35
+Jacquie Johnson,PER-15798,9,5,1; 2; 7; 9; 14,7,35
+Laura Poitras,PER-16993,2,2,2; 7,17,34
+Tom Barrack,PER-01457,2,2,2; 7,17,34
+Turkey,LOC-01881,2,2,2; 7,17,34
+Twitter Headquarters,ORG-03263,2,3,0; 2; 23,11,33
+Dana Burns,PER-00348,14,3,1; 7; 14,11,33
+Casey/Caroline,PER-00258,1,3,1; 2; 7,11,33
+Richard A. Simpson,PER-19731,9,3,1; 7; 9,11,33
+Scotty David,PER-01347,1,3,1; 7; 9,11,33
+Poetry in America,PER-19292,0,3,0; 2; 7,11,33
+"Facebook, Inc.",ORG-01128,2,3,0; 2; 7,11,33
+Natalie,PER-01132,7,3,7; 14; 39,11,33
+Lanna Belholovick,PER-00880,7,3,7; 9; 14,11,33
+Cnn,ORG-00505,9,3,2; 7; 9,11,33
+Intellectual Jazz,PER-15411,0,3,0; 2; 7,11,33
+Kellyanne Conway,PER-00848,2,2,2; 7,16,32
+Australia,LOC-00197,2,4,1; 2; 7; 9,8,32
+Foreign Corrupt Practices Act,PER-14283,2,4,0; 2; 8; 9,8,32
+Michael Reiter,PER-01030,9,2,7; 9,16,32
+Little St. James Island,LOC-00001,9,4,1; 2; 7; 9,8,32
+Xi Jinping,PER-23026,2,2,2; 7,16,32
+Valdson Cotrin,PER-01483,14,2,7; 14,16,32
+Lisa M. Rocchio,PER-00473,1,2,1; 7,16,32
+Bill Cosby,PER-00180,9,4,1; 7; 9; 39,8,32
+Chris Tucker,PER-00292,2,4,1; 2; 7; 14,8,32
+Ivanka Trump,PER-00661,2,2,2; 7,16,32
+Palm Beach estate,PER-18979,2,4,1; 2; 7; 9,8,32
+federal district court,LOC-02062,9,4,1; 2; 7; 9,8,32
+Jack Robertson,PER-00682,12,3,1; 7; 12,10,30
+Henry Rosovsky,PER-00630,14,3,7; 12; 14,10,30
+Michelle Michelle,PER-01043,1,3,1; 7; 14,10,30
+Brett Kavanaugh,PER-11542,2,3,2; 7; 9,10,30
+U.S. Sentencing Commission,ORG-03308,2,3,2; 7; 9,10,30
+Morning Watch Lieutenant Captain,PER-01064,28,2,7; 28,15,30
+David Borden,PER-03398,12,3,1; 7; 12,10,30
+Adam PerryLang,PER-00043,1,2,1; 7,15,30
+grand jury,ORG-03706,9,3,2; 7; 9,10,30
+Elizabeth Stein,PER-00514,1,2,1; 7,15,30
+Mit,ORG-01925,0,3,0; 2; 7,10,30
+Albert Beramou,PER-01914,12,3,1; 7; 12,10,30
+Jonathan Barrett,PER-05343,12,3,1; 7; 12,10,30
+Nadia Blondin,PER-07121,12,3,1; 7; 12,10,30
+Chauntae Davies,PER-00281,14,3,1; 7; 14,10,30
+Michelle Campos,PER-06787,12,3,1; 7; 12,10,30
+Aline Weber,PER-00086,14,3,1; 7; 14,10,30
+Danny Hillis,PER-00359,0,3,0; 5; 7,10,30
+Jerry Beck,PER-05202,12,3,1; 7; 12,10,30
+Aldrich,PER-16468,9,3,1; 7; 9,10,30
+Trump campaign,PER-21822,2,3,2; 7; 9,10,30
+Rossacuity Gow,PER-08122,1,5,1; 2; 7; 9; 23,6,30
+Matthew I. Menchel,PER-00989,7,2,7; 9,14,28
+Florida,LOC-00694,7,4,1; 2; 7; 9,7,28
+Alexandra Wolfe,PER-10410,9,4,1; 2; 7; 9,7,28
+Charles Finch,PER-02932,49,2,7; 49,14,28
+Daily Mail Online,ORG-00871,7,4,1; 7; 9; 63,7,28
+U.S. Dist. Court for C.D. Cal.,ORG-03294,2,4,1; 2; 7; 9,7,28
+Robin Plant,PER-01309,7,4,1; 7; 9; 12,7,28
+Chief Reiter,PER-02974,9,4,7; 9; 12; 14,7,28
+confidential communication,PER-24101,2,4,0; 2; 7; 9,7,28
+Secret Service (4),PER-01349,2,4,1; 2; 7; 14,7,28
+Adam Perry Lang,PER-00042,9,4,1; 7; 9; 14,7,28
+Jeffrey Epstein's lawyer,PER-16070,9,4,0; 1; 2; 9,7,28
+Ceolilia Steen,PER-00273,7,4,1; 7; 14; 37,7,28
+Courtney Wild,PER-00334,7,4,1; 2; 7; 9,7,28
+Jane Kate,PER-05094,1,2,1; 7,14,28
+Jeff Sessions,PER-15995,2,2,2; 9,14,28
+Henry Kissinger,PER-00627,2,3,0; 2; 7,9,27
+plea agreement,PER-26872,9,3,2; 7; 9,9,27
+"Diners Club, Inc.",ORG-00943,2,3,1; 2; 7,9,27
+John McCain,PER-16326,0,3,0; 2; 9,9,27
+45th President of the United States,PER-09930,2,3,2; 7; 9,9,27
+Jury,ORG-01713,2,3,1; 2; 9,9,27
+Walter Isaacson,PER-09285,0,3,0; 2; 7,9,27
+Andrew McCabe,PER-10648,2,3,2; 7; 9,9,27
+Cristalle Wasche,PER-00338,14,3,1; 7; 14,9,27
+Robert Maxwell,PER-01296,7,3,1; 2; 7,9,27
+Ian & Tara Maxwell,PER-00640,37,3,1; 7; 37,9,27
+Morgan Stanley,PER-18049,2,3,0; 2; 9,9,27
+Tom Pritzker,PER-01462,7,3,1; 2; 7,9,27
+filmed conversation,PER-24937,0,3,0; 2; 7,9,27
+Amanda C. Kracen,PER-00092,1,3,1; 7; 9,9,27
+Joe Pagano,PER-00767,7,3,1; 7; 12,9,27
+state attorney's office,ORG-03719,2,3,2; 7; 9,9,27
+Ruth Pickholz,PER-01325,9,3,1; 7; 9,9,27
+Lynn Fontanella,PER-00940,14,3,1; 7; 14,9,27
+Elon Musk,PER-00518,7,3,0; 2; 7,9,27
+Vanity Fair,ORG-03523,2,3,2; 7; 39,9,27
+Google Scholar,ORG-01343,0,3,0; 2; 7,9,27
+Warren Spector,PER-01508,12,3,1; 7; 12,9,27
+Matthews Robert V,PER-17640,2,3,2; 7; 9,9,27
+Russian government,PER-20058,2,3,2; 7; 9,9,27
+Miami Herald Media Company,ORG-02050,9,3,1; 7; 9,9,27
+Angela Merkel,PER-10670,2,2,2; 7,13,26
+Dennis Ross,PER-13155,2,2,2; 12,13,26
+Terje Rød-Larsen,PER-01611,2,2,2; 7,13,26
+Paul Keating,PER-19089,2,2,2; 7,13,26
+Roy Black,PER-01320,7,2,7; 9,13,26
+Todd Blanche,PER-01454,1,2,1; 7,13,26
+Ray Ormond,PER-01256,7,2,7; 23,13,26
+Anthony Scaramucci,PER-00127,2,2,2; 7,13,26
+Marvin Minsky,PER-00980,7,3,0; 1; 7,8,24
+Conchita Sarnoff,PER-12603,14,4,2; 7; 14; 23,6,24
+United Nations,ORG-03376,2,2,2; 9,12,24
+Email communication recipients,PER-13726,23,4,1; 2; 7; 23,6,24
+British Government,PER-11638,2,4,0; 2; 7; 39,6,24
+The E.W. Scripps Company,ORG-03162,0,4,0; 2; 7; 39,6,24
+Roger Ailes,PER-08055,2,3,2; 7; 9,8,24
+Lisa Randall,PER-00928,7,3,0; 7; 14,8,24
+Alyssa Holubert,PER-01786,12,4,1; 2; 7; 12,6,24
+young adolescent girls,PER-28753,7,4,1; 7; 9; 14,6,24
+Paris-LeBourget,LOC-01468,2,3,2; 7; 14,8,24
+David Rothman,PER-00414,7,4,1; 7; 9; 12,6,24
+InsightsPod,PER-15399,0,3,0; 2; 9,8,24
+IBM Corp.,ORG-01514,15,3,2; 7; 15,8,24
+U.S. Department of State,PER-21986,2,3,2; 12; 15,8,24
+Julian Assange,PER-16500,2,2,2; 9,12,24
+Anas Al-Rasheed,PER-10600,7,3,0; 2; 7,8,24
+Kenneth Marra,PER-00857,9,2,7; 9,12,24
+Al Seckel,PER-00053,7,3,0; 7; 37,8,24
+Ronald Reagan,PER-19957,2,2,2; 9,12,24
+Republican Party,PER-19691,2,2,2; 7,12,24
+Greg Holubert,PER-04184,12,4,1; 2; 7; 12,6,24
+J. Ray Ormond,PER-00674,7,2,7; 9,12,24
+Nicholas Ribis,PER-01148,7,2,2; 7,12,24
+John Sullivan,PER-16354,7,4,2; 3; 7; 9,6,24
+Debra C. Freeman,PER-00424,7,3,1; 7; 9,8,24
+Hussein of Jordan,PER-16797,2,2,2; 9,12,24
+United States Department of Justice,ORG-03395,9,3,2; 7; 9,8,24
+Bob Josefsberg,PER-11425,9,4,1; 2; 7; 9,6,24
+civil lawsuit,PER-23932,9,4,1; 2; 7; 9,6,24
+Salford University,ORG-02851,0,3,0; 2; 7,8,24
+Ricardo Legoretta,PER-01268,1,3,1; 7; 14,8,24
+Dick Cheney,PER-13218,2,2,2; 7,12,24
+Alexander,PER-14533,2,2,2; 9,12,24
+Natalia Marcinkova,PER-18335,9,4,1; 7; 9; 14,6,24
+Jennifer Kalin,PER-00742,14,2,7; 14,11,22
+Jeff Sloman,PER-00723,9,2,7; 9,11,22
+Randy Kim,PER-01255,5,2,1; 5,11,22
+Carvana Co.,PER-11979,3,2,2; 3,11,22
+The Guardian,ORG-03172,2,2,2; 7,11,22
+Chinese Communist Party and government,PER-12264,2,2,2; 7,11,22
+Catherine O'hagan Wolfe,PER-00266,1,2,1; 7,11,22
+Andrew Oosterbaan,PER-00107,9,2,7; 9,11,22
+José A. Cabranes,PER-00800,1,2,1; 7,11,22
+AER acquisition into KLC,PER-10032,8,2,2; 8,11,22
+Margaret Whippet,PER-00955,12,3,1; 7; 12,7,21
+Catherine Derby,PER-00263,14,3,1; 7; 14,7,21
+Jeff Schantz,PER-00721,7,3,1; 7; 12,7,21
+Jennifer Gaffney,PER-00741,9,3,1; 7; 9,7,21
+David Brooks,PER-01584,0,3,0; 2; 7,7,21
+Steve Lester,PER-01401,14,3,1; 7; 14,7,21
+Felicia Taylor,PER-00539,7,3,1; 7; 12,7,21
+Frank Wilczek,PER-00552,0,3,0; 2; 7,7,21
+Joscha Bach,PER-01579,7,3,0; 2; 7,7,21
+Fleur PerryLang,PER-00541,1,3,1; 7; 14,7,21
+Harry Beller,PER-00617,7,3,7; 9; 14,7,21
+John G. Koeltl,PER-05281,7,3,1; 7; 9,7,21
+Strange Bedfellows television series,PER-21053,0,3,0; 2; 7,7,21
+Guy Fronstein,PER-14877,7,3,2; 7; 9,7,21
+Sheridan Gibson,PER-01366,1,3,1; 7; 14,7,21
+"Farkas, Jonathan D.",PER-03990,2,3,2; 7; 9,7,21
+"Los Angeles, Ca Intl",LOC-01028,7,3,2; 7; 9,7,21
+California,LOC-00355,2,3,2; 9; 23,7,21
+Sean Hannity,PER-20414,2,3,2; 7; 9,7,21
+Karen Casey,PER-00827,14,3,1; 7; 14,7,21
+Jeffery Pagliuca,PER-00726,1,3,1; 9; 23,7,21
+Lauren Pashcow,PER-00893,12,3,1; 7; 12,7,21
+Warren Whippet,PER-01509,12,3,1; 7; 12,7,21
+Trump Books Llc,PER-21260,2,3,2; 7; 9,7,21
+Doug Schoettle,PER-00465,7,3,1; 7; 12,7,21
+Peter Skinner,PER-01215,1,3,1; 7; 9,7,21
+Mylene Arm,PER-01121,14,3,1; 7; 14,7,21
+Daily Beast article,PER-12819,2,3,0; 2; 7,7,21
+Robert Trivers,PER-01302,2,3,2; 7; 9,7,21
+MC2 modeling agency,PER-17307,14,3,2; 7; 14,7,21
+Amazon.com,ORG-00156,2,3,0; 2; 7,7,21
+Bella Klein,PER-00164,7,2,7; 14,10,20
+Karen Friedman Agnifilo,PER-16605,9,4,1; 7; 9; 39,5,20
+Linda Stone,PER-06068,2,2,2; 7,10,20
+Nathan Myhrvold,PER-01138,7,4,2; 7; 9; 12,5,20
+Heriberto Tellez,PER-00631,1,2,1; 7,10,20
+Recep Tayyip Erdoğan,PER-19637,2,2,2; 7,10,20
+Virginia L. Giuffre and Sarah Ransome,PER-22621,2,4,1; 2; 7; 9,5,20
+Ira Zicherman,PER-00655,7,4,1; 2; 7; 12,5,20
+tabloid press,PER-28111,58,4,1; 2; 7; 58,5,20
+Wilbur Ross,PER-01515,7,4,1; 2; 7; 9,5,20
+Guy Lewis,PER-00609,9,2,7; 9,10,20
+Mark Filip,PER-00965,9,2,7; 9,10,20
+Jay Clayton,PER-00705,1,2,1; 7,10,20
+Eric Gany,PER-00526,9,4,1; 7; 9; 14,5,20
+Mahmoud Abbas,PER-17372,2,2,2; 12,10,20
+Nicole Simmons,PER-01154,1,2,1; 9,10,20
+Graydon Carter,PER-00603,7,2,2; 7,10,20
+George Rush,PER-14592,7,4,1; 2; 7; 9,5,20
+Anouk Lavalee,PER-00124,14,3,1; 7; 14,6,18
+Sophia Papapetru,PER-01116,1,2,1; 7,9,18
+French Republic,LOC-00708,2,2,2; 7,9,18
+Rebecca White,PER-01258,14,3,1; 7; 14,6,18
+Jeffrey M. Herman,PER-00732,7,2,7; 9,9,18
+Europe,LOC-00646,2,3,2; 7; 23,6,18
+Unit Manager,PER-09126,28,2,7; 28,9,18
+Barbro Ehnbom,PER-01590,2,3,2; 7; 23,6,18
+Ariane Devonvoisin,PER-00134,14,3,1; 7; 14,6,18
+Kevin Maxwell,PER-00860,37,3,1; 7; 37,6,18
+"Chicago, IL",LOC-00393,0,3,0; 2; 7,6,18
+Jane Doe No. 4,PER-00698,7,3,1; 2; 7,6,18
+address book,PER-23267,9,3,2; 7; 9,6,18
+TED Conference,PER-21239,0,3,0; 2; 7,6,18
+Meryl Streep,PER-17741,39,3,2; 7; 39,6,18
+Carter Page,PER-11974,2,2,2; 9,9,18
+Nicole Junkermann,PER-01153,7,3,1; 7; 14,6,18
+Maritza Vasquez,PER-17498,14,3,7; 9; 14,6,18
+Day Watch SHU Officer in Charge,PER-00419,28,2,7; 28,9,18
+Paul Shechtman,PER-01197,5,2,1; 5,9,18
+Mark Tagoya,PER-00971,14,2,7; 14,9,18
+Accuser-4,PER-01838,1,2,1; 7,9,18
+Richard Nixon,PER-07952,2,2,2; 9,9,18
+Morning Watch Operations Lieutenant,PER-01066,28,2,7; 28,9,18
+The Daily Beast Company LLC,ORG-03158,2,3,2; 7; 14,6,18
+Qatar,LOC-01519,2,2,2; 7,9,18
+Columbia University,ORG-00705,0,3,0; 2; 7,6,18
+Steele dossier,PER-20927,9,3,0; 2; 9,6,18
+Manuela Stoetter,PER-00952,14,3,1; 7; 14,6,18
+Islamic extremism and ISIS,PER-15542,2,2,2; 7,9,18
+Anna Molova,PER-00119,14,3,1; 7; 14,6,18
+Calhan/Thomas,PER-00233,28,3,7; 9; 28,6,18
+Dara,PER-00362,12,2,7; 12,9,18
+Jeffrey Katzenberg,PER-16097,0,3,0; 2; 7,6,18
+Christopher Steele,PER-12416,9,2,2; 9,9,18
+Daniel Siad,PER-00357,7,3,2; 7; 14,6,18
+Lenny Bruce,PER-17076,2,3,2; 9; 39,6,18
+police officer,PER-26894,9,3,2; 7; 9,6,18
+Nina Keita,PER-01157,14,3,1; 7; 14,6,18
+Princeton University,ORG-02653,0,3,0; 7; 23,6,18
+David Bolivaras,PER-00374,14,3,1; 7; 14,6,18
+Naif bin Abdulaziz Al-Saud,PER-19408,2,2,2; 9,9,18
+flight logs,PER-25010,9,3,7; 9; 14,6,18
+protesters,PER-27212,2,2,2; 9,9,18
+Kaplan,PER-00805,1,3,1; 7; 9,6,18
+Daliah Weiss,PER-12838,9,3,2; 7; 9,6,18
+Fethullah Gulen,PER-14175,2,3,2; 7; 9,6,18
+investigation,PER-25716,2,3,2; 7; 9,6,18
+Ginger Southgate,PER-00592,12,2,7; 12,9,18
+Goldman Sachs Investment Strategy Group,PER-14736,2,2,0; 2,9,18
+Leticia Birkholder,PER-00916,1,3,1; 7; 14,6,18
+Stuart Russell,PER-21066,2,3,0; 2; 7,6,18
+Russia investigation,PER-20035,2,2,2; 9,9,18
+Christina Estrada,PER-00296,1,3,1; 7; 14,6,18
+"Berlin, Germany",LOC-00262,2,3,2; 7; 23,6,18
+Kelly Spamm,PER-00847,1,3,1; 7; 14,6,18
+Lenna Pena,PER-05984,12,2,7; 12,8,16
+Mahmoud Ahmadinejad,PER-17374,2,2,2; 9,8,16
+Guideden Bell,PER-04522,12,2,7; 12,8,16
+Michael Morell,PER-17818,2,2,2; 9,8,16
+David P. Podgurski,PER-00394,12,2,7; 12,8,16
+SHU Lieutenant,PER-01371,28,2,7; 28,8,16
+Paul Morris,PER-01196,7,2,2; 7,8,16
+Lange Dieter,PER-05875,12,2,7; 12,8,16
+Oliver Stone,PER-18743,2,2,2; 7,8,16
+Robin Leach,PER-01308,12,2,7; 12,8,16
+Arthur Goldberg,PER-16531,9,2,2; 9,8,16
+Mandy Glisson,PER-06263,12,2,7; 12,8,16
+Wendy Dobbs,PER-22783,9,4,2; 7; 9; 14,4,16
+Alberto Pena,PER-01918,12,2,7; 12,8,16
+Jack Kosgei,PER-05042,12,2,7; 12,8,16
+John Connolly,PER-16276,2,2,2; 7,8,16
+Dave,PER-03384,5,4,1; 5; 7; 14,4,16
+Day Watch Operations Lieutenant,PER-00418,28,2,7; 28,8,16
+Melania Trump,PER-01001,2,2,2; 9,8,16
+Martin Nowak,PER-00978,7,2,7; 9,8,16
+Mike,PER-01045,7,2,0; 7,8,16
+Nicolas Sarkozy,PER-18536,2,2,2; 7,8,16
+Inmate 3,PER-00649,28,2,7; 28,8,16
+Gary Cohn,PER-14506,2,2,2; 7,8,16
+Luba,PER-06188,12,2,7; 12,8,16
+Amanda Ens,PER-10481,2,2,2; 7,8,16
+North Korea,PER-18621,2,2,2; 7,8,16
+Colleen McMahon,PER-00323,7,2,1; 7,8,16
+Jes Staley,PER-00750,7,2,2; 7,8,16
+Cavera,PER-02884,14,3,1; 7; 14,5,15
+Leopold,PER-01088,9,3,2; 7; 9,5,15
+Unknown Lawyer,PER-22444,7,3,1; 7; 9,5,15
+Strange Bedfellows Episode 1,PER-21031,2,3,0; 2; 7,5,15
+Bruce Reinhart,PER-11689,14,3,7; 9; 14,5,15
+Securities and Exchange Commission,ORG-02907,2,3,2; 3; 7,5,15
+Robert Grusky,PER-19846,9,3,2; 7; 9,5,15
+Adrian Mucinska,PER-01768,14,3,1; 7; 14,5,15
+Gloria Allred,PER-04383,2,3,1; 2; 7,5,15
+Federal Bureau of Prisons (BOP),ORG-01146,9,3,2; 7; 9,5,15
+Lhs,PER-16906,7,3,0; 2; 7,5,15
+Jerry Goldsmith,PER-00748,14,3,1; 7; 14,5,15
+Gavin Andresen,PER-00570,2,3,0; 2; 7,5,15
+Dougle Shouetle,PER-00466,12,3,1; 7; 12,5,15
+Mort Zuckerman,PER-01068,7,3,2; 7; 9,5,15
+R. Couri Hay,PER-19510,9,3,2; 7; 9,5,15
+Gall,PER-04210,14,3,1; 7; 14,5,15
+John Roth,PER-05306,9,3,2; 7; 9,5,15
+Mike Reiter,PER-17907,9,3,0; 7; 9,5,15
+Jane Doe NO. 2,PER-04979,7,3,2; 7; 14,5,15
+Matthew Mosk,PER-17635,9,3,2; 7; 9,5,15
+New York Mellon Trust Co.,ORG-02315,9,3,2; 7; 9,5,15
+Nikki Haley,PER-18556,2,3,2; 7; 9,5,15
+Donald Trump and Jeffrey Epstein,PER-13319,9,3,2; 7; 9,5,15
+Jessica Cadwell,PER-16166,9,3,1; 7; 9,5,15
+Linda,PER-00921,7,3,1; 7; 12,5,15
+Bill Siegel,PER-11342,12,3,2; 7; 12,5,15
+Council on Foreign Relations,PER-12684,2,3,2; 7; 12,5,15
+machine superintelligence,PER-26040,2,3,0; 2; 15,5,15
+Philip Barden,PER-01220,1,3,1; 7; 9,5,15
+Seminar-POWER,PER-20448,12,3,2; 7; 12,5,15
+Raw Story,PER-19601,2,3,2; 7; 9,5,15
+Marco Rubio,PER-01556,9,3,2; 7; 9,5,15
+Jeremy Rubin,PER-00746,7,3,0; 2; 7,5,15
+Andrew Brettler,PER-02031,1,3,1; 7; 9,5,15
+Stephen Schwarzman's wife Christine,PER-20969,7,3,1; 7; 14,5,15
+Jamie/joanne,PER-04978,12,3,1; 7; 12,5,15
+Bernard Madoff,PER-00173,7,3,2; 7; 9,5,15
+Broward County Circuit Court,PER-11677,9,3,1; 7; 9,5,15
+Adel Abdul Jalil Batterjee,PER-10198,2,3,0; 2; 9,5,15
+mother,PER-09594,39,3,2; 7; 39,5,15
+Howard Rubenstein,PER-15234,7,3,7; 9; 14,5,15
+"Robinson, CA",PER-08031,14,3,1; 7; 14,5,15
+Tyler Shears,PER-21964,7,3,0; 2; 7,5,15
+Rinaldo Rizzo,PER-01287,14,3,1; 7; 14,5,15
+Chelsea Clinton,PER-00283,2,3,1; 2; 9,5,15
+BuzzFeed News,ORG-00464,0,3,0; 2; 9,5,15
+Obama administration,PER-18671,2,2,2; 9,7,14
+Palm Beach Post,ORG-02549,9,2,7; 9,7,14
+N'Diaye Skipper-Scott,PER-01122,7,2,7; 9,7,14
+Manny Duban,PER-00950,1,2,1; 7,7,14
+Norbert Weiner,PER-18602,0,2,0; 9,7,14
+Glen Dixon,PER-00597,1,2,1; 7,7,14
+Bears Sterns,ORG-00347,7,2,2; 7,7,14
+Francois Verenia,PER-00549,1,2,1; 7,7,14
+Eric,PER-03874,7,2,2; 7,7,14
+Nadia Bjorlin,PER-01125,7,2,1; 7,7,14
+"Washington, D.C.",LOC-01973,2,2,2; 7,7,14
+Palm Beach County Sheriff's Office (PBSO),ORG-02544,9,2,7; 9,7,14
+USA Inc. Report,PER-22237,0,2,0; 2,7,14
+Moscow,LOC-01247,2,2,2; 9,7,14
+Michael B. Mukasey,PER-06740,9,2,7; 9,7,14
+Lanna Leigh Belohlavek,PER-00881,9,2,7; 9,7,14
+KinderCare Learning Company,PER-16789,8,2,2; 8,7,14
+Paul A. Crotty,PER-07508,1,2,1; 7,7,14
+Alex Resnick,PER-00071,14,2,7; 14,7,14
+Microsoft Corp.,ORG-02058,2,2,2; 7,7,14
+Jeffrey Epstein plea deal,PER-16039,9,2,7; 9,7,14
+Tony Blair,PER-01470,2,2,2; 7,7,14
+Federal Judge Ken A. Marrs,PER-14143,9,2,2; 9,7,14
+Kevin G. Nealer,PER-16738,2,2,0; 2,7,14
+Cecilia,PER-00269,7,2,1; 7,7,14
+Lee,PER-05967,7,2,7; 14,7,14
+Richard Madigan,PER-19762,2,2,2; 9,7,14
+Supervisory Staff Attorney,PER-08793,7,2,7; 28,7,14
+Legal professional,PER-17058,9,2,2; 9,7,14
+Viktor Orban,PER-22579,2,2,2; 7,7,14
+Deborah,PER-00421,12,2,7; 12,7,14
+Pamela J. Bondi,PER-01176,1,2,1; 7,7,14
+Janusz Banasiak,PER-06959,7,2,7; 9,7,14
+Don McGahn,PER-13302,2,2,2; 7,7,14
+Preet Bharara,PER-01231,5,2,2; 5,7,14
+Jane Doe No. #3,PER-05089,9,2,7; 9,7,14
+Pierre N. Leval,PER-01226,1,2,1; 7,7,14
+court proceeding,PER-24214,9,2,9; 14,7,14
+India,LOC-00892,2,2,2; 7,7,14
+Karyna Shuliak,PER-00831,7,2,2; 7,7,14
+Eric Roth,PER-01540,2,2,2; 7,7,14
+Private Investigator,PER-19420,9,2,7; 9,7,14
+Cecile de Jongh,PER-00268,7,2,0; 7,7,14
+Narendra Modi,PER-18327,2,2,2; 7,7,14
+Michelle Healey,PER-01041,1,2,1; 7,7,14
+Code Enforcement Board,PER-12514,9,2,2; 9,7,14
+Jo-Jo Fontanella,PER-00762,14,2,7; 14,7,14
+James Christe,PER-00688,1,2,1; 9,7,14
+Unknown Saudi journalist,PER-22447,2,2,2; 7,7,14
+David Rockefeller,PER-00408,14,2,2; 14,7,14
+Mark DeMarco,PER-00963,0,2,0; 1,7,14
+Harry Reems,PER-14976,9,2,2; 9,7,14
+Evening Watch Operations Lieutenant,PER-00534,28,2,7; 28,7,14
+Al Rajhi Bank,PER-10289,2,2,2; 9,7,14
+Alan Greenberg,PER-00055,7,2,1; 7,7,14
+United Kingdom,LOC-01901,2,2,0; 2,7,14
+Elizabeth Elizabeth,PER-00511,12,2,7; 12,7,14
+Chris Christie,PER-12365,2,2,2; 7,7,14
+Jordana (Jordy) H. Feldman,PER-00794,1,2,1; 7,6,12
+Andrea K. Johnstone,PER-00098,1,2,1; 7,6,12
+Madeleine Albright,PER-17355,2,2,1; 2,6,12
+Golda Meir,PER-14728,2,2,2; 9,6,12
+woman,PER-28689,9,3,2; 7; 9,4,12
+Thomas F. Meagher,PER-21562,9,3,2; 7; 9,4,12
+Zina Broukis,PER-01533,14,2,7; 14,6,12
+Audrey Raimbault,PER-00144,1,3,1; 7; 12,4,12
+Cowen and Company,PER-12706,2,2,0; 2,6,12
+Ido and Moshe,PER-15336,2,3,2; 7; 39,4,12
+United States Egypt policy,PER-22341,2,2,2; 7,6,12
+Ed Tuttle,PER-00490,1,2,1; 7,6,12
+"Inmate Reyes, Efrain",PER-00651,7,2,1; 7,6,12
+Hans Peterson,PER-00615,1,3,1; 2; 7,4,12
+Jim Dowd,PER-00758,1,3,1; 7; 14,4,12
+Tommy Quinn,PER-09030,12,2,7; 12,6,12
+Leslie Gelb,PER-00913,12,3,2; 7; 12,4,12
+Mike Pence should be replaced by Pompeo,PER-17906,2,2,2; 7,6,12
+Israeli occupation of Palestine,PER-15640,2,2,2; 39,6,12
+ABC News,ORG-00057,9,3,2; 7; 9,4,12
+Jeff Bezos,PER-00718,0,3,0; 2; 7,4,12
+legal proceeding,PER-25913,14,3,7; 9; 14,4,12
+David Ingram,PER-13005,9,3,2; 7; 9,4,12
+Mary Jordan,PER-17584,2,2,0; 2,6,12
+Brock Pierce,PER-00217,7,2,2; 7,6,12
+Northeast Regional Director,PER-07260,28,2,7; 28,6,12
+"Bradley Edwards, Paul Cassell, and Alan Dershowitz",PER-11507,7,3,2; 7; 9,4,12
+Jean Gathy,PER-00708,7,3,1; 7; 12,4,12
+In the Closet of the Vatican,PER-15355,2,2,2; 7,6,12
+Johnny Depp,PER-16365,0,3,0; 2; 7,4,12
+Angela Andrew,PER-02063,12,2,7; 12,6,12
+federal criminal charges,PER-24862,9,3,2; 7; 9,4,12
+Arizona State University,ORG-00237,0,2,0; 7,6,12
+Avery Gunther,PER-10961,15,3,7; 9; 15,4,12
+deposition proceeding,PER-24398,9,2,7; 9,6,12
+Leslie Fagin,PER-06002,1,2,1; 9,6,12
+Charles Schumer,PER-12116,9,3,2; 7; 9,4,12
+Henry 'Bud' Horton,PER-15065,15,3,2; 7; 15,4,12
+Nancy Pelosi,PER-18318,2,2,2; 7,6,12
+International Union of Psychological Science,ORG-01609,0,3,0; 2; 7,4,12
+Roger Schank,PER-19919,0,3,0; 2; 7,4,12
+John Wallace,PER-01082,1,2,1; 7,6,12
+Reid Hoffman,PER-01261,7,2,2; 7,6,12
+Christine Blasey Ford,PER-12400,2,2,2; 7,6,12
+Rex Tillerson,PER-19722,2,2,2; 7,6,12
+"Taymor, Julie",PER-08891,2,3,0; 2; 7,4,12
+Tonja Haddad Coleman,PER-21689,7,2,7; 9,6,12
+Heidi Somers,PER-15046,2,2,2; 7,6,12
+Motion Picture and Television Fund,PER-18083,0,3,0; 2; 7,4,12
+Juan Pablo Molyneux,PER-00803,14,2,7; 14,6,12
+Haley Robson,PER-00614,7,2,7; 9,6,12
+Gmax,ORG-01336,7,3,1; 7; 37,4,12
+Sarah Palin,PER-08342,0,2,0; 2,6,12
+Didier/Rede,PER-03563,12,2,7; 12,6,12
+Cathy,PER-12026,2,3,1; 2; 7,4,12
+David Stern,PER-00416,7,2,2; 7,6,12
+Michael E. Horowitz,PER-01021,9,2,7; 9,6,12
+Julie Shay,PER-00817,14,3,1; 7; 14,4,12
+Robert Meister,PER-01298,7,3,7; 9; 12,4,12
+MIT Media Lab,PER-17320,0,3,0; 2; 7,4,12
+Court of appeal,ORG-00800,9,3,2; 7; 9,4,12
+Eric Holder,PER-01557,2,2,2; 7,6,12
+Ayatollah Ali Khamenei,PER-10980,2,2,2; 7,6,12
+Stephen Hawking,PER-01395,7,3,0; 2; 7,4,12
+Venezuela,PER-22524,2,2,2; 7,6,12
+Physician Assistant (PA),PER-07623,7,2,7; 28,6,12
+Henry W Breyer III,PER-15079,9,2,2; 9,6,12
+Ralph Pascale (Pilot),PER-01727,14,2,7; 14,6,12
+University of Chicago,ORG-03447,39,2,2; 39,6,12
+Palestine Liberation Organization,PER-18899,2,2,2; 9,6,12
+Accuser-1's brother,PER-00034,1,2,1; 7,6,12
+Savell Clifford,PER-01342,22,2,7; 22,6,12
+Deep Thinking,PER-13096,0,3,0; 2; 7,4,12
+Steven Pinker,PER-01409,0,2,0; 2,6,12
+Forrest Sawyer,PER-00544,14,2,7; 14,6,12
+Phillipe Mugnier,PER-01223,1,2,1; 7,6,12
+John Browning,PER-16267,9,2,7; 9,6,12
+Sarah Silverman,PER-20281,2,2,0; 2,6,12
+Eben Cassell,PER-13524,9,3,1; 7; 9,4,12
+Bob Breslen (Pilot),PER-01712,1,3,1; 7; 14,4,12
+Poetry in America for Teachers II,PER-19293,0,2,0; 7,6,12
+Thomas E. Scott,PER-21559,9,2,1; 9,6,12
+Celena,PER-02894,12,2,7; 12,6,12
+John Kerry,PER-00781,2,2,2; 7,6,12
+Quincy Jones,PER-19499,2,3,0; 2; 9,4,12
+Klc Opco,PER-16575,8,2,2; 8,6,12
+Katie Johnson,PER-16652,2,3,2; 7; 9,4,12
+Cappelletti,PER-00237,22,2,7; 22,6,12
+Daniel Redefie,PER-00354,12,2,7; 12,6,12
+two women,PER-28422,7,2,2; 7,6,12
+Glen Eva,PER-04372,12,2,7; 12,6,12
+Steve Miller,PER-01402,14,2,7; 14,6,12
+Shannon Healy,PER-01353,1,2,1; 7,6,12
+Erika Kellerhals,PER-00528,7,2,2; 7,6,12
+Zubair Khan,PER-01535,0,3,0; 2; 7,4,12
+"Little, Brown & Co.",ORG-01873,2,3,2; 7; 9,4,12
+AUSA Pomerantz,PER-01806,1,2,1; 5,6,12
+Clarisse Thorn's father,PER-12453,39,3,2; 7; 39,4,12
+Henry Pittman,PER-00629,1,2,1; 7,6,12
+Pete Strzok,PER-19185,2,2,2; 7,6,12
+Brad Wechsler,PER-11497,7,2,7; 9,6,12
+Meridith Schultz,PER-06718,1,2,1; 9,6,12
+World Economic Forum,ORG-03659,2,3,0; 2; 7,4,12
+Ariana Huffington,PER-10794,7,2,2; 7,6,12
+State Attorney,ORG-03026,7,2,7; 9,6,12
+Sue Popovich Horton,PER-21087,15,3,2; 7; 15,4,12
+Arthur Hollering,PER-02132,12,2,7; 12,6,12
+Kevin Pistro,PER-00861,7,2,7; 9,6,12
+Robert Y. Lewis,PER-01305,1,2,1; 7,6,12
+Motta Gur,PER-18086,2,2,2; 7,6,12
+Lily Johnson,PER-06056,0,2,0; 7,5,10
+Benjamin Huston,PER-11246,3,2,2; 3,5,10
+Koch Brothers,PER-16840,2,2,2; 7,5,10
+A Teal,PER-01626,12,2,7; 12,5,10
+Chuck Grassley,PER-03019,7,2,2; 7,5,10
+Seth Lloyd,PER-01351,0,2,0; 7,5,10
+Tom Hooper,PER-21669,39,2,7; 39,5,10
+Lesley Simms,PER-17102,15,2,7; 15,5,10
+Li Tali,PER-06029,22,2,7; 22,5,10
+Michael Avenatti,PER-17767,2,2,2; 7,5,10
+James E Hill,PER-15826,9,2,7; 9,5,10
+Andrew Weissmann,PER-10657,2,2,2; 7,5,10
+Fabriame Palheo,PER-00537,14,2,7; 14,5,10
+court record,PER-24215,9,2,7; 9,5,10
+Gerald Ford,PER-14607,2,2,2; 9,5,10
+Steve Tuckerman,PER-01405,12,2,7; 12,5,10
+Fidele,PER-04023,22,2,7; 22,5,10
+Bruce A. Green,PER-00219,1,2,1; 7,5,10
+Jeffrey T. Aloman,PER-05160,9,2,7; 9,5,10
+presidential election,PER-27044,2,2,2; 23,5,10
+Terry Kafka,PER-21382,2,2,2; 7,5,10
+J. Edgar Hoover,PER-15709,9,2,2; 9,5,10
+Richard Turgoner,PER-07958,14,2,1; 14,5,10
+Case Management Coordinator,PER-00255,28,2,7; 28,5,10
+Inca Doerrig,PER-00648,1,2,1; 7,5,10
+Katie Couric,PER-00840,0,2,0; 7,5,10
+Forensic Psychologist 1,PER-00542,7,2,7; 28,5,10
+Epstein civil litigation cases,PER-13812,9,2,7; 9,5,10
+Larry Kudlow,PER-16963,2,2,2; 7,5,10
+Robert Hanssen,PER-19848,2,2,2; 9,5,10
+Audit Committee,PER-10927,3,2,3; 7,5,10
+Yehura Koppel,PER-01530,12,2,7; 12,5,10
+Scott G Goodrich,PER-08423,12,2,7; 12,5,10
+Zipora Koppel,PER-01534,12,2,7; 12,5,10
+William Henry Cosby Jr.,PER-09402,1,2,1; 2,5,10
+Operations Lieutenant,PER-01170,28,2,7; 28,5,10
+J Teal,PER-00662,12,2,7; 12,5,10
+Ian Osborne,PER-15325,7,2,7; 12,5,10
+FBI director,PER-14038,2,2,2; 9,5,10
+Newsmax article about Ken Starr,PER-18502,9,2,7; 9,5,10
+Invesco Asset Management (Japan) Limited,PER-15467,2,2,2; 7,5,10
+Tony Figueroa,PER-01471,9,2,1; 9,5,10
+Muslim Brotherhood,PER-18179,2,2,2; 12,5,10
+David Redfearn,PER-00405,14,2,1; 14,5,10
+Fabio,PER-03961,14,2,1; 14,5,10
+Johnson,PER-01083,7,2,1; 7,5,10
+Ellen Spencer,PER-00517,7,2,1; 7,5,10
+David L. Bazelon,PER-13009,9,2,2; 9,5,10
+William Sweeney Jr.,PER-09415,1,2,1; 9,5,10
+Aclu,PER-10029,2,2,2; 9,5,10
+Nicholas Negroponte,PER-01147,0,2,0; 2,5,10
+Bloomberg News,ORG-00375,2,2,2; 7,5,10
+Kevin McCarthy,PER-16744,2,2,0; 2,5,10
+Monica Lewinsky,PER-06859,2,2,2; 9,5,10
+Belo hlavek,PER-02340,9,2,7; 9,5,10
+Jack Kessler,PER-05040,0,2,0; 7,5,10
+Undisclosed recipients,PER-22294,2,2,2; 7,5,10
+Noel Allx,PER-01160,28,2,7; 28,5,10
+Douglas Mitchell,PER-03640,2,2,2; 7,5,10
+"Singapore, China, India, Russia, and Turkey",PER-20661,2,2,2; 7,5,10
+eBay,ORG-03702,0,2,0; 2,5,10
+Melanie Spinella,PER-01536,7,2,7; 23,5,10
+Mitchell Bard,PER-17982,2,2,2; 7,5,10
+Michael Bloomberg,PER-01015,0,2,0; 2,5,10
+Alison,PER-01970,9,2,7; 9,5,10
+Manoli Mavroleon,PER-06429,37,2,1; 37,5,10
+Debbie Maxwell,PER-03477,37,2,1; 37,5,10
+Reuters News & Media Inc.,ORG-02772,2,2,2; 7,5,10
+Natalie Simanova,PER-01134,14,2,7; 14,5,10
+Associate Warden of Programs,PER-02154,28,2,7; 28,5,10
+Sandy Berger,PER-01336,14,2,7; 14,5,10
+Sergey Lavrov,PER-01565,2,2,2; 7,5,10
+Juliana Jorge,PER-05458,14,2,1; 14,5,10
+Jim Kim,PER-16209,2,2,2; 7,5,10
+Etienne Binant,PER-13913,7,2,2; 7,5,10
+Sherrie Crape,PER-01367,1,2,1; 7,5,10
+E Maxwell,PER-03729,37,2,1; 37,5,10
+David Ben-Gurion,PER-12960,2,2,2; 9,5,10
+Swalle,PER-08816,22,2,7; 22,5,10
+Scott Biddle,PER-08419,12,2,7; 12,5,10
+Victoria Hazell,PER-01493,1,2,1; 7,5,10
+office,LOC-02086,7,2,2; 7,5,10
+O Teal,PER-01163,12,2,7; 12,5,10
+Steven Mnuchin,PER-01408,2,2,2; 7,5,10
+Sen. John Kerry,PER-08458,0,2,0; 7,5,10
+senior leaders in Beijing,PER-27686,2,2,2; 7,5,10
+Frances Hardinge,PER-04098,12,2,7; 12,5,10
+Ponzi scheme,PER-19311,9,2,7; 9,5,10
+Jennifer,PER-00739,12,2,7; 12,5,10
+Co 1,PER-02740,28,2,7; 28,5,10
+Savell Caliendo,PER-08361,7,2,7; 22,5,10
+Steve Kosslyn,PER-08246,0,2,0; 7,5,10
+Fox 35 Orlando,ORG-01242,2,2,2; 7,5,10
+Judy Tuckerman,PER-00810,12,2,7; 12,5,10
+Sultan Ahmed bin Sulayem,PER-01420,2,2,2; 7,5,10
+Steven Spielberg,PER-01411,0,3,0; 7; 39,3,9
+Shelly Harrison,PER-01364,7,3,1; 7; 12,3,9
+Joshua Cooper Ramo,PER-01583,7,3,2; 7; 9,3,9
+Johnson,ORG-01683,9,3,2; 7; 9,3,9
+Courtney Love,PER-00333,9,3,2; 7; 9,3,9
+Huawei,PER-15246,39,3,2; 7; 39,3,9
+Rebecca Watson,PER-19634,0,3,0; 2; 7,3,9
+Christina Venero,PER-12399,7,3,1; 7; 9,3,9
+unknown recipients,PER-28532,7,3,7; 9; 23,3,9
+Ali Mohamed,PER-10430,9,3,0; 2; 9,3,9
+Daniel Kahneman,PER-12892,0,3,0; 2; 7,3,9
+Cy Vance,PER-00341,39,3,7; 9; 39,3,9
+Unknown sender,PER-22465,23,3,2; 7; 23,3,9
+students,PER-28043,9,3,2; 7; 9,3,9
+Fund,PER-14431,8,3,2; 8; 9,3,9
+Brexit referendum,PER-11580,0,2,0; 2,4,8
+Claus von Bulow,PER-12466,9,2,2; 9,4,8
+Deutsche Bank Alex. Brown,ORG-00933,2,2,2; 7,4,8
+Kenneth R. Feinberg,PER-00858,1,2,1; 7,4,8
+George Clooney,PER-01570,2,2,0; 2,4,8
+Anna Salter,PER-13384,7,2,7; 9,4,8
+Giuffre v. Maxwell,PER-14681,9,2,7; 9,4,8
+Cnbc,ORG-00502,2,2,2; 7,4,8
+Congressional committees,PER-12627,2,2,0; 2,4,8
+Moira Penza,PER-01062,1,2,1; 9,4,8
+Brazil,LOC-00284,2,2,2; 7,4,8
+Jos Shaver,PER-16419,2,2,2; 7,4,8
+Justin Post,PER-16558,2,2,0; 2,4,8
+MC2 Model Management,PER-17305,14,2,7; 14,4,8
+Lawyers,ORG-01829,7,2,2; 7,4,8
+Alan Turing,PER-10348,0,2,0; 2,4,8
+Matt Grippi,PER-00987,7,2,1; 7,4,8
+Steve Wynn,PER-01406,2,2,2; 7,4,8
+George Dyson,PER-14568,0,2,0; 7,4,8
+Saudi American Bank,PER-20294,2,2,2; 9,4,8
+Bill Richardson,PER-00183,7,2,7; 9,4,8
+Rabita Trust,PER-19535,2,2,2; 9,4,8
+state prison facility,LOC-02102,7,2,7; 9,4,8
+Saudi High Commission,PER-20330,2,2,2; 9,4,8
+Stormy Daniels,PER-21027,2,2,2; 9,4,8
+Naif,PER-19407,9,2,2; 9,4,8
+Edward Mezvinsky,PER-13573,9,2,2; 9,4,8
+K12 Inc.,PER-16565,8,2,2; 8,4,8
+"JP Morgan Chase Bank, N.A.",ORG-01648,2,2,2; 7,4,8
+Dmitry Rybolovlev,PER-13268,2,2,2; 7,4,8
+Mike Tyson,PER-17913,9,2,2; 9,4,8
+AW Skipper Scott,PER-01809,9,2,7; 9,4,8
+campaign,PER-23773,2,2,2; 7,4,8
+Masha Drokova,PER-00985,7,2,2; 7,4,8
+Kyle Tayler,PER-00871,1,2,1; 7,4,8
+Bjarke Ingels,PER-11385,0,2,0; 2,4,8
+Philip Kafka,PER-19244,2,2,2; 7,4,8
+Paul Volcker,PER-19116,0,2,0; 7,4,8
+Steven Pfeiffer,PER-21010,7,2,0; 7,4,8
+Louis Freeh,PER-06171,9,2,2; 9,4,8
+Mark Zuckerberg,PER-00973,2,2,2; 7,4,8
+Rudy Giuliani,PER-20014,2,2,2; 7,4,8
+FBI agents,PER-03948,7,2,1; 7,4,8
+AUSA Villafafia,PER-10104,9,2,7; 9,4,8
+Chuck Schumer,PER-12423,2,2,2; 7,4,8
+Chori Krove,PER-00289,1,2,1; 7,4,8
+William JULIÉ,PER-01522,1,2,1; 2,4,8
+Alan Dershowitz and Tatiana,PER-10313,9,2,7; 9,4,8
+book,PER-23685,7,2,2; 7,4,8
+Harold Nicholson,PER-14961,2,2,2; 9,4,8
+Perry Lang/Adam,PER-01204,1,2,1; 7,4,8
+Jaan Tallinn,PER-15752,0,2,0; 7,4,8
+Melanie Starves,PER-01002,1,2,1; 7,4,8
+Maria Alessi,PER-00956,9,2,7; 9,4,8
+Alexander Poteyev,PER-10402,2,2,2; 9,4,8
+Electronics Technician,PER-00505,28,2,7; 28,4,8
+Gordon Getty,PER-14762,2,2,0; 2,4,8
+Dave Camp,PER-12944,2,2,2; 7,4,8
+Dave Killary,PER-00368,1,2,1; 7,4,8
+Colin Firth,PER-12538,39,2,7; 39,4,8
+Harry Shorstein,PER-14981,9,2,2; 9,4,8
+of the Maldives,PER-19371,2,2,2; 7,4,8
+Kelly Friendly,PER-16679,7,2,2; 7,4,8
+J.P. Morgan Securities Inc.,ORG-01635,2,2,2; 7,4,8
+Stephanie D. Thacker,PER-20941,7,2,7; 9,4,8
+Albert Einstein,PER-10361,0,2,0; 7,4,8
+U.S. Virgin Islands,LOC-01887,7,2,2; 7,4,8
+Ric Bradshaw,PER-01267,7,2,7; 9,4,8
+Charlie Wagner,PER-02728,12,2,7; 12,4,8
+Strategic and Policy Forum,PER-21057,2,2,2; 7,4,8
+SIS Lieutenant,PER-01377,28,2,7; 28,4,8
+Jeff Fuller,PER-15992,14,2,7; 14,4,8
+notable individuals from Wikipedia,PER-26544,0,2,0; 7,4,8
+Lyndon B. Johnson,PER-17286,2,2,2; 9,4,8
+Julie K. Brown,PER-00816,7,2,1; 7,3,6
+Gawker,PER-14516,1,2,1; 7,3,6
+Norman Finkelstein,PER-18612,9,2,2; 9,3,6
+Bruce Moskowitz,PER-00221,2,2,2; 7,3,6
+Dubai,PER-13436,7,2,2; 7,3,6
+Saige Gonzales,PER-20192,9,2,7; 9,3,6
+non-governmental sector in Hungary,PER-26528,2,2,2; 7,3,6
+Latham and Watkins,PER-16983,2,2,2; 3,3,6
+Financial Times,PER-14202,2,2,2; 7,3,6
+Niall Ferguson,PER-18513,2,2,0; 2,3,6
+9/11 attacks,PER-09991,2,2,2; 63,3,6
+Martin Rees,PER-17569,0,2,0; 7,3,6
+Sara Kropf,PER-08209,7,2,1; 7,3,6
+two children,PER-28413,2,2,2; 7,3,6
+financial markets,PER-24959,2,2,2; 7,3,6
+"CFW Const. Co., Inc.",ORG-00491,2,2,2; 14,3,6
+Republican Primary Debate,PER-19693,2,2,2; 9,3,6
+Origins Project at ASU,PER-18807,0,2,0; 7,3,6
+Federal civil litigation case,PER-14156,9,2,2; 9,3,6
+FBI investigation,PER-14040,2,2,1; 2,3,6
+Marc D. Hauser,PER-17440,7,2,2; 7,3,6
+Facilities Assistant,PER-00538,7,2,7; 28,3,6
+Frederic Fekkai,PER-00555,12,2,7; 12,3,6
+State prosecutors,PER-20923,9,2,7; 9,3,6
+unknown participant,PER-28523,7,2,2; 7,3,6
+Case Western Reserve University,ORG-00570,0,2,0; 2,3,6
+Cheri Krape,PER-00286,1,2,1; 7,3,6
+Jide Zeitlin,PER-16197,2,2,2; 7,3,6
+The Artist,PER-21429,39,2,0; 39,3,6
+Sadler,PER-01330,7,2,7; 22,3,6
+Ben Sasse,PER-02344,7,2,2; 7,3,6
+Ralph Berry,PER-07823,0,2,0; 1,3,6
+Dan Dennett,PER-12853,0,2,0; 7,3,6
+MC2 Models Miami,PER-17306,14,2,7; 14,3,6
+Justin Webb,PER-16561,63,2,2; 63,3,6
+Emmanuel Centre,PER-13754,63,2,2; 63,3,6
+John Humphrys,PER-16302,63,2,7; 63,3,6
+Cavalier magazine,PER-12033,2,2,2; 9,3,6
+Eve,PER-03927,7,2,1; 7,3,6
+Italy,LOC-00888,2,2,2; 7,3,6
+Chief Justice John G. Roberts,PER-12169,9,2,9; 28,3,6
+New York Observer,PER-18463,2,2,2; 7,3,6
+himself,PER-25372,7,2,2; 7,3,6
+James Baker,PER-15814,2,2,2; 7,3,6
+Olivia Cole,PER-18747,39,2,2; 39,3,6
+Partner,PER-14544,8,2,8; 9,3,6
+Robert Hoffenberg,PER-19853,7,2,7; 9,3,6
+Schoettle/Douglas,PER-01343,1,2,1; 7,3,6
+South Africa,LOC-01713,78,2,7; 78,3,6
+David Agus,PER-12953,0,2,0; 2,3,6
+Confucius Institute,PER-12613,2,2,2; 39,3,6
+John R. Bolton,PER-16341,2,2,2; 7,3,6
+Michael Durberry (Pilot),PER-01718,14,2,7; 14,3,6
+Kleiner Perkins Caufield & Byers,PER-16828,0,2,0; 2,3,6
+John Dowd,PER-16282,2,2,2; 7,3,6
+Antonin Scalia,PER-10723,9,2,2; 9,3,6
+Mia Farrow,PER-17754,9,2,2; 9,3,6
+Tiffany Doe,PER-21600,7,2,2; 7,3,6
+Unknown president-elect,PER-22459,2,2,2; 9,3,6
+interest rates,PER-25663,44,2,2; 44,3,6
+Barry Cohen,PER-11121,7,2,7; 9,3,6
+Jabor Y. Inewei,PER-15753,7,2,2; 7,3,6
+state grand jury,PER-27981,9,2,7; 9,3,6
+Marci A. Hamilton,PER-07719,1,2,1; 7,3,6
+Sheldon Adelson,PER-01361,2,2,2; 9,3,6
+Cannabis companies,PER-11911,0,2,0; 9,3,6
+Emmanuel Macron,PER-13755,7,2,2; 7,3,6
+Virginia,PER-01495,7,2,1; 7,3,6
+Department of Homeland Security,ORG-00915,2,2,2; 14,3,6
+Abdulrahman Alamoudi,PER-10137,2,2,2; 9,3,6
+Helen Gurley Brown,PER-15051,7,2,1; 7,3,6
+Schulte,PER-01344,7,2,1; 7,3,6
+Clock of the Long Now,PER-12498,0,2,0; 7,3,6
+Larry Flynt,PER-16955,2,2,2; 7,3,6
+Marrah,PER-05421,1,2,1; 7,3,6
+Jeffrey Epstein Foundation,PER-16009,7,2,2; 7,3,6
+Michelle Pagan,PER-13191,7,2,7; 9,3,6
+The Barclay Hotel,ORG-03149,7,2,2; 7,3,6
+Future of Life Institute,PER-14438,0,2,0; 7,2,4
+hotel,PER-25433,2,2,2; 9,2,4
+Matthew Horton,PER-17631,15,2,7; 15,2,4
+National Lawyers Guild,PER-18366,9,2,2; 9,2,4
+European Central Bank,PER-13931,2,2,2; 44,2,4
+Angela Davis,PER-10669,9,2,2; 9,2,4
+Melanie Walker,PER-01003,7,2,2; 7,2,4
+Tom Payette,PER-01461,14,2,7; 14,2,4
+Kenneth Mapp,PER-00856,2,2,2; 7,2,4
+Argentina,LOC-00175,7,2,7; 23,2,4
+Manhattan District Attorney's Office,ORG-01945,7,2,7; 9,2,4
+Cristina Pato,PER-12727,0,2,0; 2,2,4
+Stewart Brand,PER-21020,7,2,0; 7,2,4
+Moshe Safdie,PER-18070,2,2,0; 2,2,4
+Thomas A. Drescher,PER-21550,9,2,7; 9,2,4
+Nat Schindler,PER-18334,2,2,0; 2,2,4
+The Haze Trust,ORG-00015,2,2,2; 7,2,4
+Gerald Barton,PER-14606,7,2,2; 7,2,4
+TED2017 Conference,PER-21244,2,2,2; 7,2,4
+Steve Ballmer,PER-20977,2,2,2; 7,2,4
+Bitcoin,PER-11372,2,2,2; 7,2,4
+Canada,LOC-00362,0,2,0; 2,2,4
+Fusion GPS,PER-14434,9,2,7; 9,2,4
+Oliver,PER-07328,7,2,2; 7,2,4
+blog post,PER-23672,0,2,0; 12,2,4
+news media,PER-26505,14,2,7; 14,2,4
+Anita,PER-10678,39,2,2; 39,2,4
+IFP Gotham Awards,PER-15301,7,2,0; 7,2,4
+Ronnie Abrams,PER-19967,9,2,2; 9,2,4
+Robert Faurisson,PER-19833,7,2,7; 9,2,4
+Palm Beach County Assessor,PER-18959,7,2,2; 7,2,4
+Timothy J. Ambrose,PER-01451,7,2,1; 7,2,4
+Vinoda Basnayake,PER-22593,58,2,2; 58,2,4
+World Bank,ORG-03656,9,2,2; 9,2,4
+Joseph Walsh,PER-16443,2,2,2; 9,2,4
+Harvard Law School,ORG-01436,9,2,0; 9,2,4
+Harvard Law School professor,PER-14993,2,2,2; 7,2,4
+Tarik Hamdi,PER-21311,2,2,2; 9,2,4
+Stuart Hameroff,PER-01415,64,2,7; 64,2,4
+Blanche Lark Christerson,PER-11397,2,2,2; 7,2,4
+Howard Hughes,PER-15230,9,2,2; 9,2,4
+AUM Conference,PER-10103,0,2,0; 7,2,4
+Rra,PER-19521,9,2,7; 9,2,4
+Venki Ramakrishnan,PER-22533,2,2,2; 7,2,4
+Robert Bennett,PER-19815,2,2,2; 9,2,4
+Patricia Gifford,PER-16481,9,2,2; 9,2,4
+Kpcb,PER-16580,0,2,0; 2,2,4
+Bruce Franklin,PER-11681,0,2,0; 9,2,4
+Companies,PER-12584,0,2,0; 2,2,4
+Women in Film cocktail party,PER-22969,39,2,7; 39,2,4
+Women Advance,PER-22967,2,2,2; 7,2,4
+Matt Groening,PER-00988,7,2,0; 7,2,4
+Clinton family,PER-12487,7,2,2; 7,2,4
+course students,PER-24208,2,2,2; 7,2,4
+Bard College,PER-11113,7,2,2; 7,2,4
+Ann Coulter,PER-10683,7,2,2; 7,2,4
+Saudi Binladin Group,PER-20324,2,2,2; 9,2,4
+Amnesty International,PER-10574,58,2,9; 58,2,4
+Friedrich Hayek,PER-14414,9,2,7; 9,2,4
+George Krassner,PER-14576,2,2,2; 9,2,4
+Frank Lynch,PER-14338,2,2,2; 9,2,4
+Origins Project Scientific Workshop,PER-18806,0,2,0; 2,2,4
+"St. Thomas, U.S. Virgin Islands",LOC-01743,7,2,2; 7,2,4
+Joe D. Whitley,PER-05249,9,2,7; 9,2,4
+Strive Masiyiwa,PER-21061,78,2,2; 78,2,4
+Robin Williams,PER-19900,2,2,2; 39,2,4
+Baba Muktananda,PER-11045,69,2,2; 69,2,4
+Epstein Louis,PER-13804,2,2,2; 7,2,4
+Radovan Karadic,PER-19549,9,2,2; 9,2,4
+Kevin Rudd,PER-00862,7,2,2; 7,2,4
