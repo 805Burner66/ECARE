@@ -48,7 +48,7 @@ All source data is derived from the DOJ Epstein file releases (3.5M+ pages acros
 ### Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecare.git
+git clone https://github.com/805Burner66/ecare.git
 cd ecare
 pip install -r requirements.txt
 ```
